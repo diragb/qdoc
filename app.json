@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "qdoc",
+    "description": "qdoc lets you securely store important documents and details across your devices for quick access.",
     "slug": "qdoc",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,10 +9,13 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#080708"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#f7f9f9"
     },
     "assetBundlePatterns": [
       "**/*"

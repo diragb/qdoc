@@ -1,0 +1,55 @@
+[
+  {
+    "id": "NANOID_1",
+    "type": "FOLDER",
+    "name": "Government Documents Of The Republic Of India",
+    "lastModified": "SOME-TIMESTAMP",
+    "creationTime": "SOME-TIMESTAMP",
+    "items": [
+      {
+        "id": "NANOID_2",
+        "type": "FOLDER",
+        "name": "School Documents",
+        "lastModified": "SOME-TIMESTAMP",
+        "creationTime": "SOME-TIMESTAMP",
+        "items": []
+      },
+      {
+        "id": "NANOID_3",
+        "type": "DOCUMENT",
+        "name": "Website Purchase Receipt",
+        "fileExtension": "EXTENSION",
+        "lastModified": "SOME-TIMESTAMP",
+        "creationTime": "SOME-TIMESTAMP",
+        "icon": 2
+      },
+      {
+        "id": "NANOID_4",
+        "type": "CERTIFICATE",
+        "name": "Aadhar Card",
+        "fileExtension": "EXTENSION",
+        "lastModified": "SOME-TIMESTAMP",
+        "creationTime": "SOME-TIMESTAMP",
+        "icon": 3
+      },
+      {
+        "id": "NANOID_5",
+        "type": "DEBIT_CARD",
+        "name": "Federal Bank Debit Card",
+        "fileExtension": "EXTENSION",
+        "lastModified": "SOME-TIMESTAMP",
+        "creationTime": "SOME-TIMESTAMP",
+        "icon": 6
+      },
+      {
+        "id": "NANOID_6",
+        "type": "CREDIT_CARD",
+        "name": "Axis Bank Credit Card",
+        "fileExtension": "EXTENSION",
+        "lastModified": "SOME-TIMESTAMP",
+        "creationTime": "SOME-TIMESTAMP",
+        "icon": 6
+      }
+    ]
+  }
+]

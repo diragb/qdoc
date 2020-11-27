@@ -1,0 +1,17 @@
+[
+  {
+    "id": "NANOID_1",
+    "type": "FOLDER",
+    "name": "Government Documents Of The Republic Of India",
+    "lastModified": "SOME-TIMESTAMP"
+  },
+  {
+    "id": "NANOID_4",
+    "type": "CERTIFICATE",
+    "name": "Aadhar Card",
+    "fileExtension": "EXTENSION",
+    "lastModified": "SOME-TIMESTAMP",
+    "creationTime": "SOME-TIMESTAMP",
+    "icon": 3
+  }
+]

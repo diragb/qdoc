@@ -1,0 +1,12 @@
+// Exports:
+export interface IROUTE {
+  INDEX: "INDEX";
+  PIN: "PIN";
+  LOGIN: "LOGIN";
+  SIGNUP: "SIGNUP";
+  HOME: "HOME";
+  SEARCH: "SEARCH";
+  FOLDER_VIEW: "FOLDER_VIEW";
+  ADD_ASSET: "ADD_ASSET";
+  FILE_VIEWER: "FILE_VIEWER";
+};
